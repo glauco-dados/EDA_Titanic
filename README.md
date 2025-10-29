@@ -52,7 +52,7 @@ O dataset utilizado é proveniente da competição [Titanic - Machine Learning f
 ## Estrutura do Projeto
 
 ```
-titanic-eda/
+EDA_Titanic/
 │
 ├── data/
 │   ├── train.csv
@@ -138,8 +138,8 @@ Exemplos de perguntas respondidas:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/titanic-eda.git
-cd titanic-eda
+git clone https://github.com/glauco-dados/EDA_Titanic.git
+cd EDA_Titanic
 ```
 
 2. Instale as dependências:
@@ -177,14 +177,14 @@ Este projeto me permitiu desenvolver e praticar habilidades em:
 
 **Seu Nome**
 
-- LinkedIn: [glaucomelo](https://linkedin.com/in/seu-perfil)
-- GitHub: [@glauco-dados](https://github.com/seu-usuario)
+- LinkedIn: [glaucomelo](https://linkedin.com/in/glaucomelo)
+- GitHub: [@glauco-dados](https://github.com/glauco-dados)
 - Email: glauco.dados@gamil.com
 
 
 ## Referências
 
-- [Kaggle - Titanic Competition](https://www.kaggle.com/c/titanic)[^6]
+- [Kaggle - Titanic Competition](https://www.kaggle.com/c/titanic)
 - Documentação Pandas
 - Documentação Seaborn
 - Documentação Matplotlib
