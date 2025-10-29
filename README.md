@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Sou iniciante em análise de dados e criação de modelos de machine learning e estou construindo meu portfólio no github. Vou iniciar fazendo o processo de EDA do desastre do Titanic com dados do Kaggle. Quero que você elabore um arquivo .md para ser utilizado como Readme deste repositório
-
-Com base nas melhores práticas para portfólios de ciência de dados no GitHub e na estrutura típica de projetos de EDA do Titanic, criei um README completo e profissional para o seu repositório. O arquivo segue os padrões da comunidade de ciência de dados e está otimizado para demonstrar suas habilidades como iniciante em análise de dados.[^1][^2][^3][^4]
-
 # 📊 Análise Exploratória de Dados - Titanic
 
 ## Sobre o Projeto
