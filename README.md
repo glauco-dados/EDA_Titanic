@@ -1,10 +1,16 @@
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
+# Sou iniciante em análise de dados e criação de modelos de machine learning e estou construindo meu portfólio no github. Vou iniciar fazendo o processo de EDA do desastre do Titanic com dados do Kaggle. Quero que você elabore um arquivo .md para ser utilizado como Readme deste repositório
+
+Com base nas melhores práticas para portfólios de ciência de dados no GitHub e na estrutura típica de projetos de EDA do Titanic, criei um README completo e profissional para o seu repositório. O arquivo segue os padrões da comunidade de ciência de dados e está otimizado para demonstrar suas habilidades como iniciante em análise de dados.[^1][^2][^3][^4]
+
 # 📊 Análise Exploratória de Dados - Titanic
 
 ## Sobre o Projeto
 
-Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** do famoso conjunto de dados do desastre do Titanic, disponibilizado pelo Kaggle. O objetivo principal é explorar e compreender os fatores que influenciaram a sobrevivência dos passageiros através de visualizações, estatísticas descritivas e insights baseados em dados.
+Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** do famoso conjunto de dados do desastre do Titanic, disponibilizado pelo Kaggle. O objetivo principal é explorar e compreender os fatores que influenciaram a sobrevivência dos passageiros através de visualizações, estatísticas descritivas e insights baseados em dados.[^5][^6][^7]
 
-Como parte do meu portfólio de ciência de dados, este projeto demonstra habilidades em manipulação de dados, análise estatística e visualização utilizando Python.
+Como parte do meu portfólio de ciência de dados, este projeto demonstra habilidades em manipulação de dados, análise estatística e visualização utilizando Python.[^3][^1]
 
 ## Objetivos
 
@@ -13,12 +19,12 @@ Como parte do meu portfólio de ciência de dados, este projeto demonstra habili
 - Tratar valores ausentes e inconsistências nos dados
 - Visualizar distribuições e relações entre features
 - Extrair insights sobre os fatores que impactaram a taxa de sobrevivência
-- Preparar os dados para futuras etapas de modelagem de Machine Learning
+- Preparar os dados para futuras etapas de modelagem de Machine Learning[^7][^3]
 
 
 ## Dataset
 
-O dataset utilizado é proveniente da competição [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) do Kaggle.
+O dataset utilizado é proveniente da competição [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) do Kaggle.[^6]
 
 ### Descrição das Variáveis
 
@@ -37,7 +43,7 @@ O dataset utilizado é proveniente da competição [Titanic - Machine Learning f
 | Cabin | Número da cabine |
 | Embarked | Porto de embarque (C = Cherbourg, Q = Queenstown, S = Southampton) |
 
-*Fonte: Kaggle Titanic Competition*
+*Fonte: Kaggle Titanic Competition*[^8][^6]
 
 ## Tecnologias Utilizadas
 
@@ -52,7 +58,7 @@ O dataset utilizado é proveniente da competição [Titanic - Machine Learning f
 ## Estrutura do Projeto
 
 ```
-EDA_Titanic/
+titanic-eda/
 │
 ├── data/
 │   ├── train.csv
@@ -71,7 +77,7 @@ EDA_Titanic/
 
 ## Metodologia
 
-O processo de EDA seguiu as seguintes etapas:
+O processo de EDA seguiu as seguintes etapas:[^1][^3]
 
 ### 1. Carregamento e Visão Geral dos Dados
 
@@ -138,8 +144,8 @@ Exemplos de perguntas respondidas:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/glauco-dados/EDA_Titanic.git
-cd EDA_Titanic
+git clone https://github.com/seu-usuario/titanic-eda.git
+cd titanic-eda
 ```
 
 2. Instale as dependências:
@@ -155,7 +161,7 @@ jupyter notebook notebooks/titanic_eda.ipynb
 
 ## Aprendizados
 
-Este projeto me permitiu desenvolver e praticar habilidades em:
+Este projeto me permitiu desenvolver e praticar habilidades em:[^2][^4]
 
 - Limpeza e preparação de dados reais
 - Técnicas de análise exploratória
@@ -170,21 +176,21 @@ Este projeto me permitiu desenvolver e praticar habilidades em:
 - [ ] Desenvolver modelos de Machine Learning para previsão de sobrevivência
 - [ ] Comparar performance de diferentes algoritmos (Random Forest, Logistic Regression, SVM)
 - [ ] Realizar otimização de hiperparâmetros
-- [ ] Submeter previsões na competição do Kaggle
+- [ ] Submeter previsões na competição do Kaggle[^3][^7]
 
 
 ## Autor
 
 **Seu Nome**
 
-- LinkedIn: [glaucomelo](https://linkedin.com/in/glaucomelo)
-- GitHub: [@glauco-dados](https://github.com/glauco-dados)
-- Email: glauco.dados@gamil.com
+- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- Email: seu.email@exemplo.com
 
 
 ## Referências
 
-- [Kaggle - Titanic Competition](https://www.kaggle.com/c/titanic)
+- [Kaggle - Titanic Competition](https://www.kaggle.com/c/titanic)[^6]
 - Documentação Pandas
 - Documentação Seaborn
 - Documentação Matplotlib
@@ -197,3 +203,27 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ***
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+<span style="display:none">[^10][^9]</span>
+
+<div align="center">⁂</div>
+
+[^1]: https://github.com/fabinhojorge/titanic_analysis
+
+[^2]: https://medium.datadriveninvestor.com/how-to-write-a-good-readme-for-your-data-science-project-on-github-ebb023d4a50e?gi=8a4060ab4107
+
+[^3]: https://github.com/Ruban2205/titanic-classification
+
+[^4]: https://www.dataquest.io/blog/how-to-share-data-science-portfolio/
+
+[^5]: https://www.kaggle.com/code/mjamilmoughal/eda-of-titanic-dataset-with-python-analysis
+
+[^6]: https://www.kaggle.com/c/titanic/data
+
+[^7]: https://www.geeksforgeeks.org/machine-learning/titanic-survival-prediction-using-ml/
+
+[^8]: https://udaykiran.tech/solved-titanic-dataset-kaggle-competition
+
+[^9]: https://www.reddit.com/r/learnmachinelearning/comments/93sq9g/about_to_go_solve_the_titanic_dataset_on_kaggle/
+
+[^10]: https://www.youtube.com/watch?v=6IGx7ZZdS74
+
